@@ -3,7 +3,6 @@
  * struture using the list ADT
  *
  * Name: Qixuan "Harrison" Ma
- * PID: A16018410
  * Email: q5ma@ucsd.edu
  */ 
 import java.util.List;
