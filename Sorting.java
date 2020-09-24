@@ -1,6 +1,5 @@
 /**
  * Name: Qixuan "Harrison" Ma
- * PID: A16018410
  * Email: q5ma@ucsd.edu
  *
  * this file is an implementation of 2 sorting methods, merge sort and 
